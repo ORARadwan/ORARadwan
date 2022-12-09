@@ -5,6 +5,5 @@
 - 📫 How to reach me ...
 
 <!---
-ORARadwan/ORARadwan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Hi!! I am Omar Radwan, I am Jordanian, but currently living in Germany. Working on my Website so that people can reach me :)
 --->
